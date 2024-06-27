@@ -29,13 +29,10 @@ conda activate agent_env
 curl http://localhost:11434/api/pull -d "{\"name\": \"llama3\"}"
 ```
 
-
-Ollama(https://github.com/ollama/ollama/blob/main/docs/api.md#list-local-models)(API documentionation)
-
 ### Clone and Navigate to the Repository
 1. Clone the Repo:
 ```
-git clone https://github.com/john-adeojo/custom_agent_tutorial.git
+git clone https://github.com/Emarhnuel/Custom_websearch_agent.git
 ```
 
 2. Navigate to the Repo:
